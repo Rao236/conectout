@@ -7,10 +7,10 @@ ConectOut organization is group of decisions of internet product service -
 
 ConectOut Media
 [
-     out official announcement and details site
-     out gov. to people site
-     out image sharing plateform
-     out vedio and music plateform
-     out radio
-     out news
+     (out official announcement and details site),
+     (out gov. to people site),
+     (out image sharing plateform),
+     (out vedio and music plateform),
+     (out radio),
+     (out news),
 ]
