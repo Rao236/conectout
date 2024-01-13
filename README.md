@@ -1,5 +1,5 @@
 # conectout
-ConectOut is a india based 'NGO','NFO' Organization work from [GURUGRAM,HARYANA,INDIA].
+ConectOut is a  public Organization.
 Primary work of ConectOut Organization is protocol & technologies licensing and standardization on new technologies .
 we dovelop open sorce and free internet product.
 
